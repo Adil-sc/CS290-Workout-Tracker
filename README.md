@@ -13,9 +13,9 @@ node server.js
 ```
 
 ## Built With
-JavaScript
-Node.js
-Express
-Bootstrap
-MySQL
+- JavaScript
+- Node.js
+- Express
+- Bootstrap
+- MySQL
 
