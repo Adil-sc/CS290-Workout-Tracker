@@ -2,8 +2,6 @@ let dBresponse = [];
 let host = window.location.host;
 
 
-
-
 /*********************************************************************
 ** Function responsible for fetching the JSON object from the workouts DB endpoint
 *********************************************************************/
